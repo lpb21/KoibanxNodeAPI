@@ -85,7 +85,7 @@ Antes de desplegar la API, asegúrate de tener instalado:
 ---
 
 ## 💾 Creación de la Base de Datos
-Ejecuta estos scripts en **Microsoft SQL Server** para crear las tablas necesarias:
+Ejecuta estos scripts en **Microsoft SQL Server** para crear las tablas necesarias, despues de **crear tu base de datos**:
 
 ```sql
 CREATE TABLE ProcessingStatus (
@@ -270,6 +270,6 @@ Headers: {
 Aquí puedes ver un video que muestra cómo funciona la API en acción:
 📺 [**Ver Video Explicativo**](https://drive.google.com/file/d/1tQoo2z_QztJmjIq6L5XqcxWxIwVz6Ies/view?usp=sharing)
 
-🚀 **¡Listo! Ahora puedes probar y desplegar.** 🎉
+🚀 **¡Listo! Ahora puedes probar.** 🎉
 
 

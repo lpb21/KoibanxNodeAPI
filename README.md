@@ -113,8 +113,8 @@ CREATE TABLE YourTable (
 ## 🚀 Instalación y Despliegue
 1️⃣ **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu_usuario/tu_proyecto.git
-cd tu_proyecto
+git clone https://github.com/lpb21/KoibanxNodeAPI.git
+cd koibanxback
 ```
 
 2️⃣ **Instalar dependencias**
@@ -270,6 +270,6 @@ Headers: {
 Aquí puedes ver un video que muestra cómo funciona la API en acción:
 📺 Ver video
 
-🚀 **¡Listo! Ahora puedes probar y desplegar tu API.** 🎉
+🚀 **¡Listo! Ahora puedes probar y desplegar.** 🎉
 
 

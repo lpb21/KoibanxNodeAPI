@@ -268,7 +268,8 @@ Headers: {
 ## 🎥 Video Demostrativo
 🎥 
 Aquí puedes ver un video que muestra cómo funciona la API en acción:
-📺 [**Ver Video Explicativo**](https://drive.google.com/file/d/1tQoo2z_QztJmjIq6L5XqcxWxIwVz6Ies/view?usp=sharing)
+
+
 
 🚀 **¡Listo! Ahora puedes probar.** 🎉
 
